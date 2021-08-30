@@ -1,8 +1,8 @@
 ### Hi there 👋
 <img align="center" src="https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/183472609_1246090785805314_8053411928898037598_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=o899xD2yoisAX9AwghP&_nc_ht=scontent.fdac27-1.fna&oh=49942dfc0af0263c0fe56484e1c12c77&oe=61523EE0"/>
-<h1 align="center"> I'm a Web Developer, Student of Mathematics and a Learner</h1>
+<h1 align="center"> I'm a Software Engineer</h1>
 <section display="flex"><section/>
-  <div><h4>If you give me a earth where there is no need to eat, sleep, bath and many things what we do everyday and then ask me what will I do??? <br/> <br/> Then I will answer you that "Cool Man, give me just 2 Substance, water and laptop with internet+google, I will do just my <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/> Prayer <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/>   and  <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/> Programming <img width="20px" src="https://i.pinimg.com/originals/cf/bb/97/cfbb9751457c7f123188d9dfdaada5ff.jpg"/>." <br/>  Yeah! That's me, I am really very passionate about programming, and It's mixed with my blood</h4><div/>
+  
     
  <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
 
