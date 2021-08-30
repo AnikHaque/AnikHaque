@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpmGT8Dx3-niQiW-g-XQ_Ku14C8U2QLtTl6Q&usqp=CAU"/>
-<h1 align="center"> I'm a Software Engineer</h1>
+<h1 align=""> I'm a Software Engineer</h1>
 <section display="flex"><section/>
   
     
