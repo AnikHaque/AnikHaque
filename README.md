@@ -7,10 +7,13 @@
     
 
 
-👋 Hi, I’m @Jannatul Mahiya Mutasha
+👋 Hi, I’m @Ekramul Haque
+  <br>
 👀 I’m interested in Programming
+  <br>
 🌱 I’m skilled in JavaScript, React Js, Node Js, Express Js, Php, Laravel, MySql, MongoDb
-📫 You can reach me at my email (jannatul15-9342@diu.edu.bd)
+  <br>
+📫 You can reach me at my email (ekramulhaqueengineer@gmail.com)
 
 
 
