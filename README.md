@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 <img align="center" src="https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/183472609_1246090785805314_8053411928898037598_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=o899xD2yoisAX9AwghP&_nc_ht=scontent.fdac27-1.fna&oh=49942dfc0af0263c0fe56484e1c12c77&oe=61523EE0"/>
 <h1 align="center"> I'm a Software Engineer</h1>
 <section display="flex"><section/>
@@ -6,20 +7,10 @@
     
 
 
-
-
-
-    
-
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/EkramulHaqueEngineer)
-
-- 💬 Ask me about **html, css, bootstrap, Material-UI, Javascript, ES6, React, Node. MongoDB, Php, Laravel, Mysql**
-
-- 📫You can reach me  **ekramulhaqueengineer@gmail.com**
-
-- 📄 Know more about my experiences [https://www.linkedin.com/in/ekramul-haque-engineer//)
+👋 Hi, I’m @Jannatul Mahiya Mutasha
+👀 I’m interested in Programming
+🌱 I’m skilled in JavaScript, React Js, Node Js, Express Js, Php, Laravel, MySql, MongoDb
+📫 You can reach me at my email (jannatul15-9342@diu.edu.bd)
 
 
 
