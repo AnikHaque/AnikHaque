@@ -13,7 +13,7 @@ A dedicated and hardworking individual with a Bachelor's degree in Computer Scie
 
 - 📫 How to reach me **ekramul.haque.cse1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gM1JvGvxikbCt-KnKLUXEblbnLiJeR5-/view?usp=sharing](https://drive.google.com/file/d/1gM1JvGvxikbCt-KnKLUXEblbnLiJeR5-/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1gM1JvGvxikbCt-KnKLUXEblbnLiJeR5-/view?usp=sharing](https://drive.google.com/file/d/1gM1JvGvxikbCt-KnKLUXEblbnLiJeR5-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
