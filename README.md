@@ -11,7 +11,7 @@ A dedicated and hardworking individual with a Bachelor's degree in Computer Scie
 - 🌱 I’m currently learning Next Js & Redux 
 - 📫 How to reach me: ekramul.haque.cse1@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EkramulHaqueEngineer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ekramul-haque-engineer/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100012132134423)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iamehanik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ekramul-haque.netlify.app/)  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=EkramulHaqueEngineer)](https://github.com/ryo-ma/github-profile-trophy)
 
