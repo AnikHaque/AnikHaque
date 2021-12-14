@@ -3,6 +3,7 @@
 
 ![I am a Mern Stack Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/90178721_944316292649433_6762288521353887744_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeGVLvT7pmbDOvzdxxQ8aYcnP_flgh_WL_4_9-WCH9Yv_u_8ddx1uFYEQyftULhTjTBJ7cT05u0yna62pjGxDoq2&_nc_ohc=Zk1p0s_jR5IAX-pVj2a&_nc_ht=scontent.fdac22-1.fna&oh=804d3c742f0a9486b46bd97d9fcd7af0&oe=61DD4FE0)
 
+<p>A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase. I am stydying on Bachelor of Science in Computer Science & Engineering at Daffodil International University. Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekramulhaqueengineer" alt="ekramulhaqueengineer" /></a> </p>
