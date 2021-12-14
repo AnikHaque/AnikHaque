@@ -1,4 +1,4 @@
-<h1 align="center" style="background-color:black">Hi 👋, I'm Ekramul Haque</h1>
+<h1 align="center">Hi 👋, I'm Ekramul Haque</h1>
 <h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
 
 ![I am a Mern Stack Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/90178721_944316292649433_6762288521353887744_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeGVLvT7pmbDOvzdxxQ8aYcnP_flgh_WL_4_9-WCH9Yv_u_8ddx1uFYEQyftULhTjTBJ7cT05u0yna62pjGxDoq2&_nc_ohc=Zk1p0s_jR5IAX-pVj2a&_nc_ht=scontent.fdac22-1.fna&oh=804d3c742f0a9486b46bd97d9fcd7af0&oe=61DD4FE0)
