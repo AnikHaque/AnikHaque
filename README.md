@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekramulhaqueengineer" alt="ekramulhaqueengineer" /></a> </p>
 
-<p align="left"> <a href="https://ekramul-haque.netlify.app/" target="blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-svg-vector.svg" alt="ekramul29233543" /></a> </p>
+<p align="left"> <a href="https://ekramul-haque.netlify.app/" target="blank"><img style="width:100px" src="https://cdn.freebiesupply.com/logos/large/2x/portfolio-logo-svg-vector.svg" alt="ekramul29233543" /></a> </p>
 
 - 🌱 I’m currently learning **Next Js , Redux**
 
