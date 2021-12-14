@@ -33,9 +33,9 @@
 <br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekramulhaqueengineer&show_icons=true&locale=en" alt="ekramulhaqueengineer" /></p>
-<br>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EkramulHaqueEngineer) 
-<br>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EkramulHaqueEngineer)  
 
  
