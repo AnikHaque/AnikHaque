@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekramulhaqueengineer" alt="ekramulhaqueengineer" /></a> </p>
- <p align="left"> <a href="https://ekramul-haque.netlify.app/" target="blank"><img style="width:100px" src="https://www.financial-expert.co.uk/wp-content/uploads/2019/09/My-Portfolio.png" alt="ekramul29233543" /></a> </p>
+ <p align="left"> <a href="https://ekramul-haque.netlify.app/" target="blank"><img style="width:200px" src="https://www.financial-expert.co.uk/wp-content/uploads/2019/09/My-Portfolio.png" alt="ekramul29233543" /></a> </p>
 
 
 - 🌱 I’m currently learning **Next Js , Redux**
