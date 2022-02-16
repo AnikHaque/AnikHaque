@@ -1,10 +1,9 @@
 ![MasterHead](https://i.ibb.co/CnZPxR3/websites-banner.jpg)
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
-<h1 align="center">Hi 👋, I'm Ekramul Haque</h1>
+<h1 align="center">Hi 👋, I'm Anik Haque</h1>
 <h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
 
-![I am a Mern Stack Web Developer](https://raw.githubusercontent.com/Abdullah-Al-Akash/Abdullah-Al-Akash/main/react-bg.png)
 
 <p>A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase. I am stydying on Bachelor of Science in Computer Science & Engineering at Daffodil International University. Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
