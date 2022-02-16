@@ -33,10 +33,10 @@
 
 <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ekramulhaqueengineer&show_icons=true&locale=en" alt="ekramulhaqueengineer" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnikHaque&show_icons=true&locale=en" alt="AnikHaque" /></p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=EkramulHaqueEngineer) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnikHaque) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EkramulHaqueEngineer)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnikHaque)  
 
  
