@@ -1,3 +1,6 @@
+![MasterHead](https://i.ibb.co/CnZPxR3/websites-banner.jpg)
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
+<!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <h1 align="center">Hi 👋, I'm Ekramul Haque</h1>
 <h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
 
