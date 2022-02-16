@@ -40,6 +40,6 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnikHaque) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AnikHaque)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&layout=compact&theme=buefy&hide_border=true" /></p>
 
  
