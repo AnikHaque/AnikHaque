@@ -1,5 +1,5 @@
 
-<p align="center" ><img alt="computer coding a men" src="https://raw.githubusercontent.com/ajmain-nishu/ajmain-nishu/main/assets/code.gif" width="1000" height="220" /></p>
+<p align="center" ><img alt="computer coding a men" src="https://raw.githubusercontent.com/ajmain-nishu/ajmain-nishu/main/assets/code.gif" width="1000" height="320" /></p>
 <h1 align="center">Hi 👋, I'm Anik Haque</h1>
 <h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
 
