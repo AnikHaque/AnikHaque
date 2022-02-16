@@ -10,11 +10,10 @@
 
 - 🌱 I’m currently learning **Next Js , Redux**
 
-- 👨‍💻 All of my projects are available at [https://ekramul-haque.netlify.app/](https://ekramul-haque.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anik-haque-cse1.netlify.app/](https://anik-haque-cse1.netlify.app/)
 
-- 📫 How to reach me **ekramul.haque.cse1@gmail.com**
+- 📫 How to reach me **anik.haque.cse1@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1gM1JvGvxikbCt-KnKLUXEblbnLiJeR5-/view?usp=sharing](https://drive.google.com/file/d/1gM1JvGvxikbCt-KnKLUXEblbnLiJeR5-/view?usp=sharing)
 <br><br>
 
 <h3 align="left">Languages and Tools:</h3>
