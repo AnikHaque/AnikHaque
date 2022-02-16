@@ -1,7 +1,7 @@
-<p align="center" ><img alt="computer coding a men" src="https://raw.githubusercontent.com/ajmain-nishu/ajmain-nishu/main/assets/code.gif" width="600" height="420" /></p>
 ![MasterHead](https://i.ibb.co/CnZPxR3/websites-banner.jpg)
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
+<p align="center" ><img alt="computer coding a men" src="https://raw.githubusercontent.com/ajmain-nishu/ajmain-nishu/main/assets/code.gif" width="600" height="420" /></p>
 <h1 align="center">Hi 👋, I'm Anik Haque</h1>
 <h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
 
