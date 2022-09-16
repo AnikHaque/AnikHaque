@@ -22,7 +22,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikaa137" alt="anikaa137" /></a> </p>
 <br>
   ### ☕ Reach Out Me!
-  ***😍😍Website: https://anik-haque-cse1.netlify.app/***<b/>
+  ***😍😍Website: https://anik-haque-cse1.netlify.app/<b/>
   ***😍😍Email: anik.haque.cse1@gmail.com***😍😍
   <br/>
 
