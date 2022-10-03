@@ -34,15 +34,6 @@
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnikHaque&show_icons=true&locale=en" alt="AnikHaque" /></p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AnikHaque) 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajmain-nishu&layout=compact&theme=buefy&hide_border=true" /></p>
-
-
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque" /></p>
 
