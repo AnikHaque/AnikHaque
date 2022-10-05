@@ -3,7 +3,24 @@
 <h3 align="center">A passionate Mern Stack Developer from Bangladesh</h3>
 
 
-<p>A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase. I am stydying on Bachelor of Science in Computer Science & Engineering at Daffodil International University. Working with the clients, my goal is always driven towards providing amazing experience with the best level of quality and service to them.</p>
+<p>Self-motivated, creative, and ambitious software developer and seeking a challenging career with a good organization that provides the opportunity.
+<br>
+A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase.
+<br>
+I have rich experience in:
+  <br>
+Front-end development : JavaScript, TypeScript, React, Redux, Next js, Material Ui, Tailwind Css, Bootstrap, Html, Css
+  <br>
+Back-end development : NodeJS, Express Js MongoDB, Mongoose, Firestore, MySql.
+  <br>
+Payment Gateway : Stripe,Ssl-Commerz
+  <br>
+Tools: Firebase, Heroku, vs code, netlify,Vercel
+   <br>
+Programming-language: JavaScript, C, C++, Python, Golang, Php
+   <br>
+Android & Ios development: React Native, Redux, Firebase, Css, Google Play</p>
+ <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
 
