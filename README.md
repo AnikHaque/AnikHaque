@@ -38,7 +38,7 @@ I have rich experience in:
 
 <br>
 <b>📫 Reach me on Email:</b>
-<br><br>
+
 anik.haque.cse1@gmail.com
 <h1>Anik Haque</h1>
 <h3 align="left">Languages and Tools:</h3>
