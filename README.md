@@ -63,7 +63,7 @@ anik.haque.cse1@gmail.com
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img width="5%" src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
-<img width="5%" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
+<img width="10%" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
 
 
 <h3 align="left">Languages and Tools:</h3>
