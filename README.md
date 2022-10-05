@@ -46,7 +46,7 @@ anik.haque.cse1@gmail.com
 <img width="5%" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png">
 <img width="5%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
-<img width="5%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">
 <img width="5%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
 <img width="5%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
 <img width="5%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
