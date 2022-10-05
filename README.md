@@ -58,7 +58,7 @@ anik.haque.cse1@gmail.com
 <img width="5%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
 <img width="5%" src="https://ih1.redbubble.net/image.2411515339.4702/st,small,507x507-pad,600x600,f8f8f8.jpg">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
-<img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
 <img width="5%" src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
 <img width="5%" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
