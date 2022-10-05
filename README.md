@@ -87,6 +87,6 @@ anik.haque.cse1@gmail.com
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikhaque&show_icons=true&locale=en" alt="anikhaque" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anikhaque&show_icons=true&locale=en" alt="anikhaque" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anikhaque&" alt="anikhaque" /></p>
+<p><img align="cemter" src="https://github-readme-streak-stats.herokuapp.com/?user=anikhaque&" alt="anikhaque" /></p>
