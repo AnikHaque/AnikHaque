@@ -26,8 +26,8 @@ I have rich experience in:
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
 <br><br>
 <h1>My Top Projects Demos are given below:
-  <img width="10%" height="20%" align="left" src="https://i.ibb.co/p47qfhN/screencapture-partsix-9d55b-web-app-2022-10-05-15-48-27.png" />
- <img width="10%" align="left" src="https://i.ibb.co/xsVp453/screencapture-motors-69a7d-web-app-2022-10-05-15-54-20.png" />
+  <img width="10%" height="50px" align="left" src="https://i.ibb.co/p47qfhN/screencapture-partsix-9d55b-web-app-2022-10-05-15-48-27.png" />
+ <img width="10%" height="50px" align="left" src="https://i.ibb.co/xsVp453/screencapture-motors-69a7d-web-app-2022-10-05-15-54-20.png" />
 - 👨💻 All of my projects are available at [https://anik-haque-cse1.netlify.app/](https://anik-haque-cse1.netlify.app/)
 
 - 📫 How to reach me **anik.haque.cse1@gmail.com**
