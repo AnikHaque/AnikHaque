@@ -85,7 +85,7 @@ anik.haque.cse1@gmail.com
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=anikhaque&show_icons=true&locale=en" alt="anikhaque" /></p>
 
