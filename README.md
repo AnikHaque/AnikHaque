@@ -49,7 +49,7 @@ anik.haque.cse1@gmail.com
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">
 <img width="5%" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
 <img width="5%" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png">
-<img width="5%" src="https://icts.io/wp-content/uploads/2020/04/react-native.png">
+<img width="10%" src="https://icts.io/wp-content/uploads/2020/04/react-native.png">
 <img width="5%" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png">
 <img width="5%" src="https://www.pngitem.com/pimgs/m/288-2880547_node-node-js-hd-png-download.png">
 <img width="5%" src="https://i.ibb.co/GMfGqb4/download.png">
