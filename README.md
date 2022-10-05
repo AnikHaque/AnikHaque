@@ -35,7 +35,8 @@ I have rich experience in:
 <h4>My Portfolio:</h4>
 <a href="https://anik-haque-cse1.netlify.app/">https://anik-haque-cse1.netlify.app/</a>
 
-📫 Reach me on Email:
+<b>📫 Reach me on Email:</b>
+<br>
 anik.haque.cse1@gmail.com
 
 <br><br>
