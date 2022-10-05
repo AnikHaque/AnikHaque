@@ -32,9 +32,11 @@ I have rich experience in:
 <br>
 <a href="https://university-4b81c.web.app/">University</a>
   
-<h4>My Portfolio:</h4>
+<h4>My Portfolio:
 <a href="https://anik-haque-cse1.netlify.app/">https://anik-haque-cse1.netlify.app/</a>
+</h4>
 
+<br>
 <b>📫 Reach me on Email:</b>
 <br>
 anik.haque.cse1@gmail.com
