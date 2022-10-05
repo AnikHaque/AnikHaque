@@ -52,7 +52,7 @@ anik.haque.cse1@gmail.com
 <img width="5%" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
 <img width="5%" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-vertical.png">
 <img width="5%" src="https://devlevate.com/wp-content/uploads/2022/06/express-logo.png">
-<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png">
+<img width="5%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
 <img width="5%" src="https://ih1.redbubble.net/image.2411515339.4702/st,small,507x507-pad,600x600,f8f8f8.jpg">
 <img width="5%" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
 <h3 align="left">Languages and Tools:</h3>
