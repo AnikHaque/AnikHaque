@@ -41,8 +41,6 @@ I have rich experience in:
 
 anik.haque.cse1@gmail.com
 <br><br>
-
-<h5>Languages and Tools:</h5>
 <br>
 <br>
 <img width="5%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
