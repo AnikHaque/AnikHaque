@@ -44,6 +44,12 @@ anik.haque.cse1@gmail.com
 <br>
 <br>
 
+<h1>Professional Experiences</h1>
+<li>Frontend Developer at ITCO Bd (November 2022-Present)</li>
+<li>Former Frontend Developer at Fincomienzo Solutions Private Limited( July 2022-October 2022)
+  <li>Former Frontend Development Trainer at Bangladesh Model Academy( February-2020-February 2022)
+    <br>
+    <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img width="5%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
 <img width="5%" src="https://i.ibb.co/z7GBKkF/logo-2582747-1280.webp">
