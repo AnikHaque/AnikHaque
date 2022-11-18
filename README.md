@@ -1,6 +1,6 @@
 <p align="center" ><img alt="computer coding a men" src="https://raw.githubusercontent.com/ajmain-nishu/ajmain-nishu/main/assets/code.gif" width="1000" height="320" /></p>
 <h1 align="center">Hi 👋, I'm Anik Haque</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
 
 
 <p>Self-motivated, creative, and ambitious software developer and seeking a challenging career with a good organization that provides the opportunity.
