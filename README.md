@@ -24,14 +24,7 @@ I have rich experience in:
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
-<br><br>
-<h5>My Top Projects Demos are given below:</h5>
-<a href="https://partsix-9d55b.web.app/">partSix</a>
-<br>
-<a href="https://motors-69a7d.web.app/">Motors</a>
-<br>
-<a href="https://university-4b81c.web.app/">University</a>
-  
+<br><br> 
 <h4>My Portfolio:
 <a href="https://anik-haque-cse1.netlify.app/">https://anik-haque-cse1.netlify.app/</a>
 </h4>
@@ -45,9 +38,9 @@ anik.haque.cse1@gmail.com
 <br>
 
 <h1>Professional Experiences</h1>
-<li>Frontend Developer at ITCO Bd (November 2022-Present)</li>
-<li>Former Frontend Developer at Fincomienzo Solutions Private Limited( July 2022-October 2022)
-  <li>Former Frontend Development Trainer at Bangladesh Model Academy( February-2020-February 2022)
+<li>Frontend Developer at ITCO BD</li>
+<li>Former Frontend Developer at Fincomienzo Solutions Private Limited
+  <li>Former Frontend Development Trainer at Bangladesh Model Academy
     <br>
     <br>
 <h3 align="left">Languages and Tools:</h3>
