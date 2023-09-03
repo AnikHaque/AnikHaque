@@ -10,17 +10,17 @@ A dedicated and hardworking individual with a Bachelor's degree in Computer Scie
   <br>
 I have rich experience in:
   <br>
-  <b>Front-end development</b> : JavaScript, TypeScript, React, Redux, Next js, Material Ui, Tailwind Css, Bootstrap, Html, Css
+  <b>Front-end development</b> React, Redux, Next js, Vue.js, Material Ui, Tailwind Css, Bootstrap, Html, Css
   <br>
-  <b>Back-end development</b> : NodeJS, Express Js MongoDB, Mongoose, Firestore, MySql.
+  <b>Back-end development</b> :Typescript, NodeJS, Express Js, MongoDB, Mongoose, Postgressql, Prisma, Graphql, Firestore, MySql.
   <br>
   <b>Payment Gateway</b> : Stripe,Ssl-Commerz
   <br>
-  <b>Tools</b>: Firebase, Heroku, vs code, netlify,Vercel
+  <b>Tools</b>: Firebase, Heroku, vs code, netlify,Vercel,Supabase
    <br>
-  <b>Programming-language</b>: JavaScript, C, C++, Python, Golang, Php
+  <b>Programming-language</b>: JavaScript, C, C++, Dart
    <br>
-  <b>Android & Ios development</b>: React Native, Redux, Firebase, Css, Google Play</p>
+  <b>Android & Ios development</b>:Flutter, React Native, Redux, Firebase, Css, Google Play</p>
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
@@ -38,9 +38,9 @@ anik.haque.cse1@gmail.com
 <br>
 
 <h1>Professional Experiences</h1>
-<li>Frontend Developer at ITCO BD</li>
+<li>Former Frontend Developer at ITCO BD</li>
 <li>Former Frontend Developer at Fincomienzo Solutions Private Limited
-  <li>Former Frontend Development Trainer at Bangladesh Model Academy
+  <li>Former Web Instructor at Bangladesh Model Academy
     <br>
     <br>
 <h3 align="left">Languages and Tools:</h3>
