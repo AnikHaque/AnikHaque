@@ -10,17 +10,111 @@ A dedicated and hardworking individual with a Bachelor's degree in Computer Scie
   <br>
 I have rich experience in:
   <br>
-  <b>Front-end development</b> React, Redux, Next js, Vue.js, Material Ui, Tailwind Css, Bootstrap, Html, Css
-  <br>
-  <b>Back-end development</b> :Typescript, NodeJS, Express Js, MongoDB, Mongoose, Postgressql, Prisma, Graphql, Firestore, MySql.
-  <br>
-  <b>Payment Gateway</b> : Stripe,Ssl-Commerz
-  <br>
-  <b>Tools</b>: Firebase, Heroku, vs code, netlify,Vercel,Supabase
-   <br>
-  <b>Programming-language</b>: JavaScript, C, C++, Dart
-   <br>
-  <b>Android & Ios development</b>:Flutter, React Native, Redux, Firebase, Css, Google Play</p>
+    <div class="overflow-x-auto">
+            <table class="min-w-full divide-y-2 divide-gray-200 bg-white text-sm">
+                <thead class="ltr:text-left rtl:text-right">
+                    <tr>
+                        <th class="whitespace-nowrap px-4 py-2 font-bold text-lg text-gray-900 text-left">
+                           Front-end
+                        </th>
+                        <th class="whitespace-nowrap px-4 py-2 font-bold text-lg text-gray-900 text-left">
+                            Back-end
+                        </th>
+                        <th class="whitespace-nowrap px-4 py-2 font-bold text-lg text-gray-900 text-left">
+                           Programming Language
+                        </th>
+                        <th class="whitespace-nowrap px-4 py-2 font-bold text-lg text-gray-900 text-left">
+                            Android & IOS
+                        </th>
+                    </tr>
+                </thead>
+        
+                <tbody class="divide-y divide-gray-200">
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                         Javascript
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Typescript</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Javascript</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Flutter</td>
+                    </tr>
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                          React
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Node.js</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">C</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">React Native</td>
+                    </tr>
+        
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                          Redux  
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Express.js</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">C++</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Redux</td>
+                    </tr>
+        
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                           Next.js
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">MongoDB</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Dart</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Google Play</td>
+                    </tr>
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                          Vue.js
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Mongoose</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                    </tr>
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                         Material Ui
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">MySQL</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                    </tr>
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                         Tailwind CSS
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">PostgreSQL</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                    </tr>
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                        Ant Desiign
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">Prisma</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                    </tr>
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                        Html
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium">SSL Commerz</td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700 font-medium"></td>
+                    </tr>
+                    <tr>
+                        <td class="whitespace-nowrap px-4 py-2 font-medium text-gray-900">
+                        CSS
+                        </td>
+                        <td class="whitespace-nowrap px-4 py-2 text-gray-700">Stripe</td>
+                      
+                      
+                    </tr>
+                </tbody>
+            </table>
+        </div>
  <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
