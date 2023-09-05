@@ -46,6 +46,12 @@ A dedicated and hardworking individual with a Bachelor's degree in Computer Scie
 <h4>My Portfolio:
 <a href="https://anik-haque-cse1.netlify.app/">https://anik-haque-cse1.netlify.app/</a>
 </h4>
+<h4>My Linkedin Profile:
+<a href="https://www.linkedin.com/in/anik-haque/">https://www.linkedin.com/in/anik-haque/</a>
+</h4>
+<h4>My Medium Profile:
+<a href="https://medium.com/@anik.haque.cse1">https://medium.com/@anik.haque.cse1</a>
+</h4>
 
 <br>
 <b>📫 Reach me on Email:</b>
