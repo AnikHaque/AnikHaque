@@ -8,31 +8,7 @@
 A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase.
 <br>
   <br>
-I have rich experience in:
-  <br>
-   <img src="https://i.ibb.co/y8b78g9/Capture.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
-<img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
-<br><br> 
-<h4>My Portfolio:
-<a href="https://anik-haque-cse1.netlify.app/">https://anik-haque-cse1.netlify.app/</a>
-</h4>
-
-<br>
-<b>📫 Reach me on Email:</b>
-
-anik.haque.cse1@gmail.com
-<br><br>
-<br>
-<br>
-
-<h1>Professional Experiences</h1>
-<li>Former Frontend Developer at ITCO BD</li>
-<li>Former Frontend Developer at Fincomienzo Solutions Private Limited
-  <li>Former Web Instructor at Bangladesh Model Academy
-    <br>
-    <br>
-<h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img width="5%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
@@ -62,6 +38,30 @@ anik.haque.cse1@gmail.com
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
 <img width="5%" src="https://mui.com/static/logo.png">
 </p>
+  <br>
+   <img src="https://i.ibb.co/y8b78g9/Capture.png">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
+<img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
+<br><br> 
+<h4>My Portfolio:
+<a href="https://anik-haque-cse1.netlify.app/">https://anik-haque-cse1.netlify.app/</a>
+</h4>
+
+<br>
+<b>📫 Reach me on Email:</b>
+
+anik.haque.cse1@gmail.com
+<br><br>
+<br>
+<br>
+
+<h1>Professional Experiences</h1>
+<li>Former Frontend Developer at ITCO BD</li>
+<li>Former Frontend Developer at Fincomienzo Solutions Private Limited
+  <li>Former Web Instructor at Bangladesh Model Academy
+    <br>
+    <br>
+
 <br><br>
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikaa137" alt="anikaa137" /></a> </p>
