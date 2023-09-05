@@ -61,11 +61,12 @@ anik.haque.cse1@gmail.com
 <img width="5%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png">
 <img width="5%" src="https://ih1.redbubble.net/image.2411515339.4702/st,small,507x507-pad,600x600,f8f8f8.jpg">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png">
+<img width="5%" src="https://logos-world.net/wp-content/uploads/2022/04/Prisma-Emblem.png">
   <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png">
-<img width="5%" src="https://w7.pngwing.com/pngs/566/160/png-transparent-golang-hd-logo-thumbnail.png">
-<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
-<img width="10%" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png">
+<img width="5%" src="https://logowik.com/content/uploads/images/google-dart2862.jpg">
+<img width="5%" src="https://static.wikia.nocookie.net/logo-timeline/images/c/cf/4B4A9751-D2BF-4A93-BDCC-CDCA5326B65F.png/revision/latest?cb=20210426191500">
+<img width="10%" src="https://hackernoon.com/hn-images/1*ub1DguhAtkCLvhUGuVGr6w.png">
 <img width="5%" src="https://d33wubrfki0l68.cloudfront.net/0a52782442af1cc45957552f27ff0edccd5bc2a6/3f524/static/logo-figma-2d38867f013f56200cb44549cb77a1ba.png">
 <img width="5%" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png">
 <img width="3%" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png">
