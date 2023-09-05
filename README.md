@@ -44,11 +44,7 @@ anik.haque.cse1@gmail.com
     <br>
     <br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img width="5%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
-<img width="5%" src="https://i.ibb.co/z7GBKkF/logo-2582747-1280.webp">
-<img width="5%" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png">
-<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
-<img width="5%" src="https://mui.com/static/logo.png">
+<p align="left">
 <img width="5%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png">
@@ -70,7 +66,13 @@ anik.haque.cse1@gmail.com
 <img width="5%" src="https://d33wubrfki0l68.cloudfront.net/0a52782442af1cc45957552f27ff0edccd5bc2a6/3f524/static/logo-figma-2d38867f013f56200cb44549cb77a1ba.png">
 <img width="5%" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png">
 <img width="3%" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png">
-<img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGYJdWoj2oJ1GfOZ9l7WqVF_ul4kBbrWxSjKqSsG&s"> </p>
+<img width="10%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQLGYJdWoj2oJ1GfOZ9l7WqVF_ul4kBbrWxSjKqSsG&s">
+ <img width="5%" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png">
+<img width="5%" src="https://i.ibb.co/z7GBKkF/logo-2582747-1280.webp">
+<img width="5%" src="https://brandlogos.net/wp-content/uploads/2021/09/bootstrap-logo.png">
+<img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png">
+<img width="5%" src="https://mui.com/static/logo.png">
+</p>
 <br><br>
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikaa137" alt="anikaa137" /></a> </p>
