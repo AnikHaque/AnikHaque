@@ -3,7 +3,7 @@
 <h3 align="center"> Passionate Full Stack Developer from Bangladesh</h3>
 
 
-<p>Self-motivated, creative, and ambitious software developer and seeking a challenging career with a good organization that provides the opportunity.
+<p>Hello, I'm Anik Haque, a Full-Stack Engineer with a passion for turning code into captivating digital experiences. My journey in the tech world has been a thrilling adventure filled with innovation and growth.
 <br>
 A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase.
 <br>
