@@ -16,7 +16,12 @@
    I'm a firm believer in the power of collaboration and continuous learning. Let's connect and explore how we can leverage technology to drive innovation and positive change.Let's collaborate, create, and code our way to a brighter digital future. Connect with me, and let's embark on this exciting journey together.
    <br>
    <br>
-   
+   <h1 align="Left">Professional Experiences</h1>
+<li align="left">Former Frontend Developer at ITCO BD</li>
+<li align="left">Former Frontend Developer at Fincomienzo Solutions Private Limited
+  <li align="leftr">Former Web Instructor at Bangladesh Model Academy
+    <br>
+    <br>
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img width="5%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
@@ -51,12 +56,7 @@
    <img src="https://i.ibb.co/Wg7zVKk/Capture.png">
 <br>
 <br>
-<h1 align="center">Professional Experiences</h1>
-<li align="center">Former Frontend Developer at ITCO BD</li>
-<li align="center">Former Frontend Developer at Fincomienzo Solutions Private Limited
-  <li align="center">Former Web Instructor at Bangladesh Model Academy
-    <br>
-    <br>
+
 
 #### ☕ <h1>Connect with me!</h1>
   [<img src='https://img.freepik.com/premium-vector/social-media-icon-illustration-facebook-facebook-icon-vector-illustration_561158-2134.jpg' alt='facebook' width='100' height='80'>](https://www.facebook.com/profile.php?id=100012132134423)
