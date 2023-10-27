@@ -60,6 +60,7 @@
 
 #### ☕ Connect with me!
   [<img src='https://img.freepik.com/premium-vector/social-media-icon-illustration-facebook-facebook-icon-vector-illustration_561158-2134.jpg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100012132134423)
+  [<img src='https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/linkedin-logo-on-transparent-isolated-background-free-vector.jpg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100012132134423)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque" /></p>
