@@ -48,7 +48,7 @@
 <img width="5%" src="https://mui.com/static/logo.png">
 </p>
   <br>
-   <img src="https://i.ibb.co/y8b78g9/Capture.png">
+   <img src="[https://i.ibb.co/y8b78g9/Capture.png](https://i.ibb.co/Wg7zVKk/Capture.png)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
 <img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
 <br><br> 
