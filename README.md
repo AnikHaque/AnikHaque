@@ -49,27 +49,8 @@
 </p>
   <br>
    <img src="https://i.ibb.co/Wg7zVKk/Capture.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ekramulhaqueengineer&label=Profile%20views&color=0e75b6&style=flat" alt="ekramulhaqueengineer" /> </p>
-<img width="50%" align="right" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
-<br><br> 
-<h4>My Portfolio:
-<a href="https://anik-haque-cse1.netlify.app/">https://anik-haque-cse1.netlify.app/</a>
-</h4>
-<h4>My Linkedin Profile:
-<a href="https://www.linkedin.com/in/anik-haque/">https://www.linkedin.com/in/anik-haque/</a>
-</h4>
-<h4>My Medium Profile:
-<a href="https://medium.com/@anik.haque.cse1">https://medium.com/@anik.haque.cse1</a>
-</h4>
-
-<br>
-<b>📫 Reach me on Email:</b>
-
-anik.haque.cse1@gmail.com
-<br><br>
 <br>
 <br>
-
 <h1>Professional Experiences</h1>
 <li>Former Frontend Developer at ITCO BD</li>
 <li>Former Frontend Developer at Fincomienzo Solutions Private Limited
