@@ -68,7 +68,9 @@
  <h1>Educational Qualification:-</h1>
  <li>Daffodil International University(Dept of Computer Science & Engineering)</li>
  <p>On my undergraduate studies in Computer Science at the University of Techville, where I developed a strong foundation in algorithms, data structures, software engineering and etc. I actively participated in various competitions  and my coursework included projects related to Web development, Mobile app development and etc</p>
- 
+ <br>
+ <li>University Laboratory School & College</li>
+ <p> I graduated from University Laboratory School & College with a focus on science group subjects as well as computer. During high school, I developed a strong passion for programming and technology, which ultimately led me to pursue a degree in computer science at the university level.</p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque"  width="600" /></p>
 
