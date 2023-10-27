@@ -60,8 +60,8 @@
 
 #### ☕ <h1>Connect with me!</h1>
   [<img src='https://img.freepik.com/premium-vector/social-media-icon-illustration-facebook-facebook-icon-vector-illustration_561158-2134.jpg' alt='facebook' width='100' height='80'>](https://www.facebook.com/profile.php?id=100012132134423)
-  [<img src='https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/linkedin-logo-on-transparent-isolated-background-free-vector.jpg' alt='facebook' height='40'>](https://www.linkedin.com/in/anik-haque/)
-  [<img src='https://img.freepik.com/premium-vector/round-instagram-logo-isolated-white-background_469489-898.jpg' alt='facebook' height='40'>](https://www.instagram.com/iamehanik/)
+  [<img src='https://static.vecteezy.com/system/resources/previews/012/660/862/non_2x/linkedin-logo-on-transparent-isolated-background-free-vector.jpg' alt='facebook' width='100' height='80'>](https://www.linkedin.com/in/anik-haque/)
+  [<img src='https://img.freepik.com/premium-vector/round-instagram-logo-isolated-white-background_469489-898.jpg' alt='facebook' width='100' height='80'>](https://www.instagram.com/iamehanik/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque" /></p>
