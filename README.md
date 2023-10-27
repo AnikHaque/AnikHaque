@@ -52,7 +52,7 @@
 <br>
 <br>
 <h1 align="center">Professional Experiences</h1>
-<li>Former Frontend Developer at ITCO BD</li>
+<li align="center">Former Frontend Developer at ITCO BD</li>
 <li>Former Frontend Developer at Fincomienzo Solutions Private Limited
   <li>Former Web Instructor at Bangladesh Model Academy
     <br>
