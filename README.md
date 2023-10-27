@@ -63,7 +63,7 @@
  <a href="https://www.facebook.com/profile.php?id=100012132134423" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/social-media-icon-illustration-facebook-facebook-icon-vector-illustration_561158-2134.jpg" alt="" height="80" width="100" /></a>
  <a href="https://www.instagram.com/iamehanik/" target="blank"><img align="center" src="https://img.freepik.com/premium-vector/round-instagram-logo-isolated-white-background_469489-898.jpg" alt="" height="80" width="100" /></a> 
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque"  width="600" /></p>
 
 <p><img  src="https://github-readme-stats.vercel.app/api?username=anikhaque&show_icons=true&locale=en" alt="anikhaque" /></p>
 
