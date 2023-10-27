@@ -65,7 +65,7 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque"  width="600" /></p>
 
-<p><img  src="https://github-readme-stats.vercel.app/api?username=anikhaque&show_icons=true&locale=en" alt="anikhaque" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=anikhaque&show_icons=true&locale=en" alt="anikhaque"  width="800" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikhaque&" alt="anikhaque" width="1000" height="320" /></p>
