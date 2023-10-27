@@ -66,7 +66,7 @@
  <br>
  <br>
  <h1>Educational Qualification:-</h1>
- <li><h5>Daffodil International University(Dept of Computer Science & Engineering)</h5></li>
+ <li>Daffodil International University(Dept of Computer Science & Engineering)</li>
  <p>On my undergraduate studies in Computer Science at the University of Techville, where I developed a strong foundation in algorithms, data structures, software engineering and etc. I actively participated in various competitions  and my coursework included projects related to Web development, Mobile app development and etc</p>
  
 
