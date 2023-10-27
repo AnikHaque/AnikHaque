@@ -22,7 +22,7 @@
   <li align="leftr">Former Web Instructor at Bangladesh Model Academy
     <br>
     <br>
-  <h3 align="left">Languages and Tools:</h3>
+  <h1 align="left">Languages and Tools:</h1>
 <p align="left">
 <img width="5%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
 <img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
