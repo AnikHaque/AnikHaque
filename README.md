@@ -5,9 +5,18 @@
 
 <p>Hello, I'm Anik Haque, a Full-Stack Engineer with a passion for turning code into captivating digital experiences. My journey in the tech world has been a thrilling adventure filled with innovation and growth.
 <br>
-A dedicated and hardworking individual with a Bachelor's degree in Computer Science. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase.
+  <br>
+  
+ I specialize in a versatile stack that includes Node.js, Express, MongoDB, Mongoose, MySQL, PostgreSQL, Prisma, Vue, React, and Next.js. These tools are my palette, and I use them to craft robust backends and delightful frontends that bring ideas to life.Whether it's architecting a scalable server, designing a user-friendly interface, or optimizing database performance, I relish the creative problem-solving that comes with every project.
 <br>
   <br>
+  My academic foundation in Computer Science and Engineering from Daffodil International University has provided me with a solid base, and real-world experiences have refined my skills.
+  <br>
+  <br>
+   I'm a firm believer in the power of collaboration and continuous learning. Let's connect and explore how we can leverage technology to drive innovation and positive change.Let's collaborate, create, and code our way to a brighter digital future. Connect with me, and let's embark on this exciting journey together.
+   <br>
+   <br>
+   
   <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img width="5%" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
