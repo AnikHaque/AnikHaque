@@ -85,8 +85,9 @@
  <li>University Laboratory School & College</li>
  <p> I graduated from University Laboratory School & College with a focus on science group subjects as well as computer. During College, I developed a strong passion for programming and technology, which ultimately led me to pursue a degree in computer science at the university level.</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anikhaque&show_icons=true&locale=en&layout=compact" alt="anikhaque"  width="600" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikhaque&show_icons=true&locale=en" alt="anikhaque" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=anikhaque&show_icons=true&locale=en" alt="anikhaque"  width="700" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anikhaque&" alt="anikhaque" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikhaque&" alt="anikhaque" width="1000" height="320" /></p>
