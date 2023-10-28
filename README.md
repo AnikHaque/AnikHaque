@@ -16,6 +16,19 @@
    I'm a firm believer in the power of collaboration and continuous learning. Let's connect and explore how we can leverage technology to drive innovation and positive change.Let's collaborate, create, and code our way to a brighter digital future. Connect with me, and let's embark on this exciting journey together.
    <br>
    <br>
+   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anikhaque" alt="anikhaque" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://anik-haque-cse1.netlify.app/](https://anik-haque-cse1.netlify.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@anik.haque.cse1](https://medium.com/@anik.haque.cse1)
+
+- 💬 Ask me about **React, Redux, Next.js, Node, Express, Mongodb, Mongoose, Postgress, Prisma**
+
+- 📫 How to reach me **anik.haque.cse1@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PBYnFp_7tJG0C4d9XqIFKpsd7OyVHG74/view?usp=sharing](https://drive.google.com/file/d/1PBYnFp_7tJG0C4d9XqIFKpsd7OyVHG74/view?usp=sharing)
+<br>
+<br>
    <h1 align="Left">Professional Experiences</h1>
 <li align="left">Former Frontend Developer at ITCO BD</li>
 <li align="left">Former Frontend Developer at Fincomienzo Solutions Private Limited
