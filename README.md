@@ -1,4 +1,4 @@
-<p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/34c7Hvj/Capture.png" width="1000" height="320" /></p>
+<p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/TMFJbCh/github-header-image.png" width="1000" height="320" /></p>
 <h1 align="center">Hi 👋, I'm Anik Haque</h1>
 <h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
 
