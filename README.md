@@ -1,6 +1,6 @@
 <p align="center" ><img alt="computer coding a men" src="https://i.ibb.co/TMFJbCh/github-header-image.png" width="1000"  /></p>
 <h1 align="center">Hi 👋, I'm Anik Haque</h1>
-<h3 align="center">Passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A Passionate Full Stack Developer from Bangladesh</h3>
 
 
 <p>Hello, I'm Anik Haque, a Full-Stack Engineer with a passion for turning code into captivating digital experiences. My journey in the tech world has been a thrilling adventure filled with innovation and growth.
