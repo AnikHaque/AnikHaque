@@ -73,6 +73,14 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnikHaque&show_icons=true&locale=en&theme=merko" alt="AnikHaque" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikHaque&theme=radical" alt="AnikHaque" /></p>
+<div align="center">
+<a href="https://github.com/AnikHaque">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnikHaque&theme=react" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnikHaque&theme=date_night" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnikHaque&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnikHaque&theme=aura_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikHaque&theme=dracula" height="180em" />
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
