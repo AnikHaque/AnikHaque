@@ -67,12 +67,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikHaque&hide_progress=true&theme=transparent" alt=AnikHaque />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnikHaque&show_icons=true&locale=en&theme=merko" alt="AnikHaque" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikHaque&theme=radical" alt="AnikHaque" /></p>
 <div align="center">
 <a href="https://github.com/AnikHaque">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnikHaque&theme=react" height="180em" />
