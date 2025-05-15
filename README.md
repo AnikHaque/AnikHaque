@@ -67,6 +67,20 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+  <!--- stats (start) -->
+</p>
+<table align="center">
+<tbody><tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1010nishant&amp;theme=dark&amp;show_icons=true&amp;count_private=true">
+  <br><br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&amp;theme=dark&amp;hide_border=false"> 
+</td><td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&amp;theme=dark&amp;hide_border=false&amp;no-bg=true&amp;no-frame=true&amp;langs_count=10">
+  </td>
+</tr>
+</tbody></table>
+<!--- stats (end) -->
 
 <div align="center">
 <a href="https://github.com/AnikHaque">
