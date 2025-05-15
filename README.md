@@ -71,7 +71,7 @@
 </p>
 <table align="center">
 <tbody><tr border="none">
-<td width="70%" align="center">
+<td width="100%" align="center">
 
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikHaque&amp;theme=dark&amp;hide_border=false"> 
 </td>
@@ -88,7 +88,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikHaque&theme=dracula" height="180em" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AnikHaque&theme=github-dark"/>
